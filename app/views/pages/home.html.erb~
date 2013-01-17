@@ -6,4 +6,4 @@
   
 </p>
 
-<%= link_to "S'inscrire&nbsp;!", '#', :class => "signup_button round" %>
+<%= link_to "S'inscrire !", '#', :class => "signup_button round" %>
